@@ -1,4 +1,4 @@
-
+"""
 FirstNumber =100
 
 LastNumber =13
@@ -47,10 +47,7 @@ Age = int(input("Enter Your Age :"))
 
 print(Age+2)
 
-
-
-
-
+"""
 
 
 
